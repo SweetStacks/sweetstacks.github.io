@@ -1,0 +1,29 @@
+:root {
+  --primary: #202a34;
+  --primary-text: #644AAC;
+  --secondary: #644AAC;
+  --secondary-text: #ffffff;
+  --subhead: #7a6eaa;
+  --accent: #202a34;
+  --accent-text: #280d5f;
+}
+
+/*
+aseprite unofficial PCS color theme:
+teal color #1fc7d4
+dark brown #670c02
+light brown #9a4d2b
+xtra light brown #e48a63
+butter yellow #e48a63
+
+
+Official PCS site
+Dark purple NFT #644AAC
+teal btn #1fc7d4
+dark purple text #280d5f
+light purple btn #7a6eaa
+background: linear-gradient(139.73deg, rgb(229, 253, 255) 0%, rgb(243, 239, 255) 100%)
+
+
+"linear-gradient(90deg,red,#80f)",
+*/

@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6f582da4B59659114316B5CEc8A58b81AC21827a",
+  "SCAN_LINK": "https://testnet.bscscan.com/token/0x6f582da4B59659114316B5CEc8A58b81AC21827a",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain Testnet",
+    "SYMBOL": "BNB",
+    "ID": 97
+  },
+  "NFT_NAME": "Sweet Stacks",
+  "SYMBOL": "SWEET",
+  "MAX_SUPPLY": 50000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 150000,
+  "MARKETPLACE": "#",
+  "MARKETPLACE_LINK": "#",
+  "SHOW_BACKGROUND": false
+}
