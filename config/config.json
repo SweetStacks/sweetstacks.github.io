@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x6f582da4B59659114316B5CEc8A58b81AC21827a",
-  "SCAN_LINK": "https://testnet.bscscan.com/token/0x6f582da4B59659114316B5CEc8A58b81AC21827a",
+  "CONTRACT_ADDRESS": "0x30EbFFD6600dF29373046a66ce10C5890029BbbF",
+  "SCAN_LINK": "https://bscscan.com/address/0x30ebffd6600df29373046a66ce10c5890029bbbf",
   "NETWORK": {
-    "NAME": "Binance Smart Chain Testnet",
+    "NAME": "Binance Smart Chain",
     "SYMBOL": "BNB",
-    "ID": 97
+    "ID": 56
   },
   "NFT_NAME": "Sweet Stacks",
   "SYMBOL": "SWEET",
