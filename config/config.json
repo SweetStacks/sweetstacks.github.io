@@ -1,17 +1,17 @@
 {
-  "CONTRACT_ADDRESS": "0x30EbFFD6600dF29373046a66ce10C5890029BbbF",
-  "SCAN_LINK": "https://bscscan.com/address/0x30ebffd6600df29373046a66ce10c5890029bbbf",
+  "CONTRACT_ADDRESS": "0xB1932a7AeD1c188459c3060D5C6708F1A82dbaAc",
+  "SCAN_LINK": "https://bscscan.com/address/0xB1932a7AeD1c188459c3060D5C6708F1A82dbaAc",
   "NETWORK": {
-    "NAME": "Binance Smart Chain",
+    "NAME": "BNB Chain",
     "SYMBOL": "BNB",
     "ID": 56
   },
-  "NFT_NAME": "Sweet Stacks",
-  "SYMBOL": "SWEET",
-  "MAX_SUPPLY": 50000,
-  "WEI_COST": 20000000000000000,
-  "DISPLAY_COST": 0.02,
-  "GAS_LIMIT": 150000,
+  "NFT_NAME": "Lucky Charms",
+  "SYMBOL": "LUCKY",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 200000000000000000,
+  "DISPLAY_COST": 0.2,
+  "GAS_LIMIT": 180000,
   "MARKETPLACE": "#",
   "MARKETPLACE_LINK": "#",
   "SHOW_BACKGROUND": false

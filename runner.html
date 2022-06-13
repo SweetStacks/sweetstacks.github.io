@@ -16,7 +16,7 @@
   <body class="text-light vstack h-100 lead" style="background-color:#222">
     <main role="main" class="row w-50 mx-auto" style="margin-top:4em">
       <h1>Ticket Runner</h1>
-      <p class="mb-5">Send multiple tickets to another address in one transaction.</p>
+      <p class="mb-5">Quickly send multiple tickets to another address in one single transaction. Save on gas and time.</p>
 
         <div class="mb-3" style="display:none">
             <label for="network" class="form-label">Network</label>
@@ -30,6 +30,7 @@
             <select class="form-select" id="contract">
               <option selected value="0x30ebffd6600df29373046a66ce10c5890029bbbf">Sweet Stacks</option>
               <option value="0x4363dFF050f0FCAB3e52D7F86C7db5d4e4887260">Sweet Stacks Gold</option>
+              <option value="0xB1932a7AeD1c188459c3060D5C6708F1A82dbaAc">Lucky Charms</option>
             </select>
         </div>
         <div class="mb-3">
@@ -107,7 +108,7 @@
           return alert("Please fill in token recipient address.")
         }
         if (erc721ContractAddress === recipientAddress) {
-          alert("You are about to send tokens to the contract address. If this extra warning saved you, please make a tweet mentioning @fulldecent and kwyjibo.")
+          alert("Stop! You are about to send tokens to the contract address.")
         }
         const erc721Contract = new ethers.Contract(erc721ContractAddress, erc721abi, provider);
         const isAlreadyApproved = await erc721Contract.isApprovedForAll(await signer.getAddress(), transferContractAddress);
